@@ -32,4 +32,5 @@ Follow these steps to run the project on your local machine:
 - The number of correct and incorrect words will be displayed at the end of the game.
 
 ## Gif & Screenshots 
-<img src="https://github.com/Shakshi-kumari/Keyboard-Typing-Game/blob/master/public/Keyoard%20typing%20game.jpeg">
+<img src="https://github.com/Shakshi-kumari/Keyboard-Typing-Game/blob/main/public/Gif.gif" alt="ss">
+<img src="https://github.com/Shakshi-kumari/Keyboard-Typing-Game/blob/main/public/Keyoard%20typing%20game.jpeg">
